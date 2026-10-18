@@ -1,0 +1,10 @@
+DeFALKEN — VERSIÓN OPTIMIZADA PARA GITHUB PAGES
+
+Sube DeFALKEN_Prueba_V2.html y la carpeta assets/ al directorio ben/ del repositorio.
+La ruta de prueba será https://andresurbanoz7.github.io/ben/DeFALKEN_Prueba_V2.html
+No reemplaces el archivo DeFALKEN_Tienda_Concepto.html original.
+
+Los archivos .webp proceden de las imágenes que compartió Ben y están optimizados para web.
+No se ha publicado ni cambiado ningún tema de Shopify.
+
+El index.html incluido es opcional para usar en una carpeta independiente.
