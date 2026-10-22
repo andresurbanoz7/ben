@@ -1,0 +1,7 @@
+DeFALKEN V5 - VISTA CONCEPTUAL
+
+1. Subir DeFALKEN_Prueba_V5.html a la carpeta ben del repositorio.
+2. Crear dentro de ben la ruta Activos/v5 y subir allí los archivos .webp de este ZIP.
+3. URL prevista: https://andresurbanoz7.github.io/ben/DeFALKEN_Prueba_V5.html
+4. No cambiar index.html ni la tienda Shopify hasta aprobación de Ben.
+5. Las imágenes conceptuales no sustituyen fotos ni fichas técnicas aprobadas.
